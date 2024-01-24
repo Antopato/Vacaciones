@@ -1,0 +1,24 @@
+{
+  "name": "buscaminas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "pkg": {
+    "scripts": "main.js",
+    "targets": [
+      "node14-win-x64"
+    ]
+  },
+  "author": "Antopato",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^27.1.0",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "pkg": "^5.8.1"
+  }
+}
