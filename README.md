@@ -1,4 +1,1 @@
-Te envío poemas de mi puño y letra,
-Te envío canciones de cuatro cuarenta,
-Te envío las fotos cenando en marvella,
-Y cuando estuvimos por venesuela
+Aplicación de buscaminas hecha en javaScript y html usando la librería eletrum que permite ejecutar aplicaciones de escritorio con javaScript
