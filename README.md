@@ -1,1 +1,1 @@
-Aplicación de buscaminas hecha en javaScript y html usando la librería eletrum que permite ejecutar aplicaciones de escritorio con javaScript
+Minesweeper game created using HTML and JavaScript with a library that enables the creations of desktop applications.
